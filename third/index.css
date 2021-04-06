@@ -1,0 +1,16 @@
+body {
+  margin: 0 auto;
+  padding: 2%;
+}
+
+.header {
+  background-color: #d8d8d8;
+  height: 10vh;
+  padding: 5%;
+}
+
+.box-one {
+  background-color: #4a90e2;
+  height: 10vh;
+  width: 10vw;
+}
