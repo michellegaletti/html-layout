@@ -1,16 +1,43 @@
 body {
   margin: 0 auto;
-  padding: 2%;
+  padding: 1%;
 }
 
 .header {
   background-color: #d8d8d8;
-  height: 10vh;
-  padding: 5%;
+  padding: 1.5%;
+  box-sizing: border-box;
 }
 
 .box-one {
   background-color: #4a90e2;
-  height: 10vh;
-  width: 10vw;
+  height: 100px;
+  width: 100px;
+}
+
+.info-text {
+  font-family: sans-serif;
+  font-size: 1.5rem;
+  font-weight: 300;
+  padding: 5%;
+}
+
+.colorBoxes {
+  height: 10rem;
+}
+
+.blueBox {
+  background-color: #4a90e2;
+}
+
+.turquoiseBox {
+  background-color: #50e3c2;
+}
+
+.greenBox {
+  background-color: #b8e986;
+}
+
+.yellowBox {
+  background-color: #f8e71c;
 }
